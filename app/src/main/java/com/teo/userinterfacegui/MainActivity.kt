@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
                 cal.set(Calendar.MONTH, month)
                 cal.set(Calendar.DAY_OF_MONTH, dayOfMonth)
 
-                val format = "MM/DD/AAAA"
+                val format = "MM/dd/yyyy"
                 val simpleDateFormat = SimpleDateFormat(format, Locale.US)
                 fecha = simpleDateFormat.format(cal.time).toString()
                 tView_fecha_nacimiento.text = fecha
