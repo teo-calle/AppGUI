@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">User interface GUI</string>
+    <string name="Titulo">Formulario de Registro</string>
+    <string name="Nombre">Nombre</string>
+    <string name="cedula">Cédula</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="repetir_contrasena">Repetir Contraseña</string>
+    <string name="guardar">Guardar</string>
+    <string name="error_contrasenas">Las contraseñas no son iguales</string>
+    <string name="genero">Género</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="cine">Cine</string>
+    <string name="ps4">PS4</string>
+    <string name="series">Series</string>
+    <string name="ciudad">Ciudad de Nacimiento</string>
+    <string name="fecha_nacimiento">MM/DD/AAAA</string>
+    <string name="birthdate">Fecha de Nacimiento</string>
+
+    <string-array name="lista_ciudades">
+        <item>Medellín</item>
+        <item>Barranquilla</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+    </string-array>
+</resources>
