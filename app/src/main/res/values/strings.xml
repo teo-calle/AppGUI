@@ -18,6 +18,8 @@
     <string name="ciudad">Ciudad de Nacimiento</string>
     <string name="fecha_nacimiento">MM/DD/AAAA</string>
     <string name="birthdate">Fecha de Nacimiento</string>
+    <string name="Otra_actividad">Otra Actividad</string>
+    <string name="Otra_actividad_mas">Otra actividad mas</string>
 
     <string-array name="lista_ciudades">
         <item>Medellín</item>
