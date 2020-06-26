@@ -99,7 +99,6 @@ class RegistroActivity : AppCompatActivity() {
             finish() //Con esto se mata la actividad asi presione lo que sea, estando en login activity
 
         }else{
-
             Log.d("Menu", "Presionado el menu 2")
             //Me manda a la actividad Splash
             val intent = Intent(this, SplashActivity::class.java)
